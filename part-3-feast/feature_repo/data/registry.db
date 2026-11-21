@@ -1,0 +1,97 @@
+
+n
+N
+	sample_id!Unique identifier for each sample"	sample_idJexam_feature_repo
+¢â„Ø æ³ï¢â„Ø æ³ï
+H
+(
+__dummy"
+__dummy_idJexam_feature_repo
+¢â„Ø æ³ï¢â„Ø æ³ï1"$70f9cf16-576a-488b-bbbe-730ee3613258*Ëâ„Ø°ÜÖû2û
+º
+engineered_features_fvexam_feature_repo	sample_id"
+feat_interaction_prod"
+feat_interaction_ratio2€ç„:©event_timestamp*created_timestampZdata/features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ï@b
+	sample_id’latest<
+¢â„Ø æ³ïËâ„Ø—ß
+ËûÿÈ¸”ìƒËâ„Ø¸”ìƒ02¨
+ç
+raw_features_fvexam_feature_repo	sample_id"
+alcohol"
+
+malic_acid"
+ash"
+alcalinity_of_ash"
+	magnesium"
+total_phenols"
+
+flavanoids"
+nonflavanoid_phenols"
+proanthocyanins"
+color_intensity"
+hue" 
+od280_od315_of_diluted_wines"
+proline2€ç„:©event_timestamp*created_timestampZdata/features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ï@b
+	sample_id’latest<
+¢â„Øà¥„ñËâ„Ø°ÜÖû
+ËûÿÈ¸”ìƒËâ„Ø¸”ìƒ0:ï
+Î
+exam_feature_serviceexam_feature_repo¦
+raw_features_fv
+alcohol
+
+malic_acid
+ash
+alcalinity_of_ash
+	magnesium
+total_phenols
+
+flavanoids
+nonflavanoid_phenols
+proanthocyanins
+color_intensity
+hue 
+od280_od315_of_diluted_wines
+proline*created_timestamp:created_timestampBuevent_timestamp*created_timestampZdata/features.parquet¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ïZfeatureViewù
+engineered_features_fv
+feat_interaction_prod
+feat_interaction_ratio*created_timestamp:created_timestampBuevent_timestamp*created_timestampZdata/features.parquet¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ïZfeatureView
+¢â„Øà¥„ñ¢â„Øà¥„ñRñ
+¹
+,feast.infra.online_stores.sqlite.SqliteTable"ˆ
+\C:\Users\dusan\OneDrive\Desktop\MLops_project\part-3-feast\feature_repo\data\online_store.db(exam_feature_repo_engineered_features_fv
+²
+,feast.infra.online_stores.sqlite.SqliteTable"
+\C:\Users\dusan\OneDrive\Desktop\MLops_project\part-3-feast\feature_repo\data\online_store.db!exam_feature_repo_raw_features_fvb½event_timestamp*created_timestampZdata/features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/features.parquetªexam_feature_repo’¡â„Ø ÝÒ?"¢â„Ø æ³ïŠ3
+
+exam_feature_repo
+¢â„Ø€ûÕÐ¢â„Ø€ûÕÐ’Â
+Ë
+engineered_features_fvexam_feature_repo"feature_view*Û
+º
+engineered_features_fvexam_feature_repo	sample_id"
+feat_interaction_prod"
+feat_interaction_ratio2€ç„:©event_timestamp*created_timestampZdata/features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ï@b
+	sample_id’latest
+¢â„Ø æ³ï¢â„Ø æ³ï2¢â„Øà¥„ñB$eb5f169d-8f0f-4bbb-9733-a1be5409bd8c
+ñ
+raw_features_fvexam_feature_repo"feature_view*ˆ
+ç
+raw_features_fvexam_feature_repo	sample_id"
+alcohol"
+
+malic_acid"
+ash"
+alcalinity_of_ash"
+	magnesium"
+total_phenols"
+
+flavanoids"
+nonflavanoid_phenols"
+proanthocyanins"
+color_intensity"
+hue" 
+od280_od315_of_diluted_wines"
+proline2€ç„:©event_timestamp*created_timestampZdata/features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/features.parquet’¡â„Ø ÝÒ?"¢â„Ø æ³ï@b
+	sample_id’latest
+¢â„Øà¥„ñ¢â„Øà¥„ñ2¢â„Øà¥„ñB$da3bc14f-e9e3-4551-b4a0-e4f7b4374740
